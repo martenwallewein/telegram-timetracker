@@ -42,7 +42,12 @@
     "node": ">=10"
   },
   "dependencies": {
-    "@bitauth/libauth": "^1.17.1"
+    "@bitauth/libauth": "^1.17.1",
+    "@types/node-telegram-bot-api": "^0.57.1",
+    "csv": "^6.2.0",
+    "csvtojson": "^2.0.10",
+    "format-duration": "^2.0.0",
+    "node-telegram-bot-api": "^0.58.0"
   },
   "devDependencies": {
     "@ava/typescript": "^1.1.1",
